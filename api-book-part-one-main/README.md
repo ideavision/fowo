@@ -1,5 +1,12 @@
-# API Portfolio Project
-This project demonstrates API coding best practices using Python and FastAPI.
+# APIs for AI and Data Science (FOWO-Football World)
 
-This project was built from examples from the book 
- [Hands-On APIs For API and Data Science](https://handsonapibook.com/).
+Part I portfolio project
+- Creating a Python API and SDK
+
+Part II portfolio project
+- Creating data science apps using Streamlit, Airflow, and Jupyter Notebooks
+
+Part III portfolio project
+- Creating a machine learning API and generative AI application using scikit-learn, ONNX, LangChain, and ChatGPT”
+
+
